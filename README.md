@@ -5,6 +5,7 @@
 To start the project, use the command:
 
 ```
+npm i
 npm start
 ```
 and page access on
